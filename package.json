@@ -18,7 +18,8 @@
     "node": "8.1.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/green-trombone"
+    "url": "https://glitch.com/edit/#!/green-trombone",
+    "bug": "https://github.com/kakuty/fcc-url-shortener-microservice/issues"
   },
   "license": "MIT",
   "keywords": [
